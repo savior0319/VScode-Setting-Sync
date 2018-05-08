@@ -12,19 +12,25 @@ Files Uploaded:
   Extensions Removed:
 
 Extensions Added:
+  ActiveFileInStatusBar v1.0.3
   auto-close-tag v0.5.6
   auto-rename-tag v0.0.15
   beautify v1.3.0
   code-settings-sync v2.9.2
   color-highlight v2.3.0
-  datetime v1.0.5
+  githistory v0.4.0
+  highlight-matching-tag v0.4.4
   html-class-suggestions v1.0.7
+  html-css-class-completion v1.17.1
   HTMLHint v0.5.0
   LiveServer v3.2.1
+  path-intellisense v1.4.2
+  rainbow-brackets v0.0.6
   save-typing v0.1.0
   vscode-color v0.4.5
   vscode-eclipse-keybindings v0.9.7
   vscode-eslint v1.4.8
+  vscode-gutter-preview v0.12.2
   vscode-html-css v0.2.0
   vscode-icons v7.23.0
   vscode-theme-onedark v2.1.0
