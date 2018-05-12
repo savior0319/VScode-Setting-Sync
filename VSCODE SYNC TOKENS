@@ -18,11 +18,14 @@ Extensions Added:
   beautify v1.3.0
   code-settings-sync v2.9.2
   color-highlight v2.3.0
-  githistory v0.4.0
+  githistory v0.4.1
   highlight-matching-tag v0.4.4
   html-class-suggestions v1.0.7
   html-css-class-completion v1.17.1
+  html-snippets v0.2.1
   HTMLHint v0.5.0
+  JavaScriptSnippets v1.6.0
+  jquerysnippets v0.0.1
   LiveServer v3.2.1
   path-intellisense v1.4.2
   rainbow-brackets v0.0.6
@@ -33,6 +36,7 @@ Extensions Added:
   vscode-gutter-preview v0.12.2
   vscode-html-css v0.2.0
   vscode-icons v7.23.0
+  vscode-language-pack-ko v1.23.0
   vscode-theme-onedark v2.1.0
 --------------------
 Done.
