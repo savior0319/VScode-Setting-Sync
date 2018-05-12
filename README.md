@@ -1,1 +1,1 @@
-# Atom-Sync-tokens
+# VSCODE-Sync-tokens
